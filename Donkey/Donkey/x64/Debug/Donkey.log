@@ -1,0 +1,41 @@
+﻿  main.cpp
+D:\Projects\C\GoodProject1\Donkey\Donkey\Board.h(47,4): warning C4129: ' ': unrecognized character escape sequence
+  (compiling source file 'main.cpp')
+  
+D:\Projects\C\GoodProject1\Donkey\Donkey\Board.h(47,4): warning C4129: '|': unrecognized character escape sequence
+  (compiling source file 'main.cpp')
+  
+D:\Projects\C\GoodProject1\Donkey\Donkey\Board.h(48,4): warning C4129: '|': unrecognized character escape sequence
+  (compiling source file 'main.cpp')
+  
+D:\Projects\C\GoodProject1\Donkey\Donkey\Board.h(48,4): warning C4129: ' ': unrecognized character escape sequence
+  (compiling source file 'main.cpp')
+  
+D:\Projects\C\GoodProject1\Donkey\Donkey\Board.h(49,4): warning C4129: ' ': unrecognized character escape sequence
+  (compiling source file 'main.cpp')
+  
+D:\Projects\C\GoodProject1\Donkey\Donkey\Board.h(49,4): warning C4129: '|': unrecognized character escape sequence
+  (compiling source file 'main.cpp')
+  
+D:\Projects\C\GoodProject1\Donkey\Donkey\Board.h(50,4): warning C4129: '_': unrecognized character escape sequence
+  (compiling source file 'main.cpp')
+  
+D:\Projects\C\GoodProject1\Donkey\Donkey\Board.h(73,5): warning C4129: ' ': unrecognized character escape sequence
+  (compiling source file 'main.cpp')
+  
+D:\Projects\C\GoodProject1\Donkey\Donkey\Board.h(74,5): warning C4129: ' ': unrecognized character escape sequence
+  (compiling source file 'main.cpp')
+  
+D:\Projects\C\GoodProject1\Donkey\Donkey\Board.h(74,5): warning C4129: '|': unrecognized character escape sequence
+  (compiling source file 'main.cpp')
+  
+D:\Projects\C\GoodProject1\Donkey\Donkey\Board.h(75,5): warning C4129: ' ': unrecognized character escape sequence
+  (compiling source file 'main.cpp')
+  
+D:\Projects\C\GoodProject1\Donkey\Donkey\Board.h(76,5): warning C4129: '_': unrecognized character escape sequence
+  (compiling source file 'main.cpp')
+  
+D:\Projects\C\GoodProject1\Donkey\Donkey\Board.h(76,5): warning C4129: ' ': unrecognized character escape sequence
+  (compiling source file 'main.cpp')
+  
+  Donkey.vcxproj -> D:\Projects\C\GoodProject1\Donkey\x64\Debug\Donkey.exe
